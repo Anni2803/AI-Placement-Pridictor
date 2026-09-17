@@ -1,0 +1,56 @@
+student_id,name,age,cgpa,python_skill,sql_skill,dsa_skill,communication,aptitude,projects,internship,certifications,target_role,resume_score,placement_status
+1,Anjali,20,8.45,9,8,6,8,7,4,Yes,2,Python Developer,78,Placed
+2,Rahul,21,7.8,7,8,7,6,7,3,Yes,1,Backend Developer,72,Placed
+3,Priya,20,9.2,9,9,8,9,8,5,Yes,3,AI Engineer,90,Placed
+4,Aman,22,6.8,6,5,4,5,6,2,No,0,Python Developer,58,Not Placed
+5,Sneha,21,8.9,8,9,7,9,9,4,Yes,2,Data Analyst,85,Placed
+6,Rohit,21,8.2,8,7,7,8,7,3,Yes,2,Python Developer,80,Placed
+7,Pooja,20,9.1,9,9,8,9,8,5,Yes,3,AI Engineer,92,Placed
+8,Karan,22,7.1,6,7,5,6,6,2,No,1,Backend Developer,64,Not Placed
+9,Neha,21,8.6,8,8,7,9,8,4,Yes,2,Data Analyst,84,Placed
+10,Arjun,22,6.9,5,6,5,6,6,2,No,0,Python Developer,59,Not Placed
+11,Simran,20,9.4,10,9,9,9,9,6,Yes,4,ML Engineer,95,Placed
+12,Vikas,21,7.4,7,7,6,7,7,3,Yes,1,Backend Developer,73,Placed
+13,Meena,22,8.0,8,7,7,8,7,3,Yes,2,Python Developer,79,Placed
+14,Aakash,21,6.5,5,5,4,5,5,1,No,0,Backend Developer,55,Not Placed
+15,Riya,20,8.8,9,8,8,9,8,5,Yes,3,AI Engineer,88,Placed
+16,Mohit,22,7.3,6,7,6,6,6,2,No,1,Data Analyst,67,Not Placed
+17,Nisha,21,9.0,9,9,8,9,9,5,Yes,3,ML Engineer,91,Placed
+18,Deepak,23,6.7,5,5,4,6,5,2,No,0,Python Developer,57,Not Placed
+19,Komal,20,8.4,8,8,7,8,8,4,Yes,2,Backend Developer,82,Placed
+20,Yash,21,7.9,7,8,7,7,7,3,Yes,2,Full Stack Developer,76,Placed
+21,Sakshi,22,9.3,9,10,9,9,9,6,Yes,5,AI Engineer,94,Placed
+22,Harsh,21,6.8,6,5,5,6,6,2,No,0,Python Developer,60,Not Placed
+23,Payal,20,8.7,8,9,8,9,8,5,Yes,3,Data Analyst,86,Placed
+24,Manish,22,7.2,6,6,6,6,7,2,No,1,Backend Developer,68,Not Placed
+25,Isha,21,9.5,10,10,9,10,9,6,Yes,5,ML Engineer,96,Placed
+26,Nitin,22,8.1,8,7,7,8,7,3,Yes,2,Python Developer,81,Placed
+27,Kavya,20,9.2,9,9,9,9,9,5,Yes,4,AI Engineer,93,Placed
+28,Saurabh,21,6.9,6,5,5,6,6,2,No,1,Backend Developer,61,Not Placed
+29,Tanvi,21,8.7,8,9,8,9,8,4,Yes,3,Data Analyst,87,Placed
+30,Abhishek,22,7.4,7,7,6,7,7,3,Yes,2,Full Stack Developer,74,Placed
+31,Muskan,20,9.0,9,9,8,10,9,5,Yes,4,ML Engineer,92,Placed
+32,Rakesh,23,6.4,5,5,4,5,5,1,No,0,Python Developer,53,Not Placed
+33,Ankita,21,8.5,8,8,7,8,8,4,Yes,2,Backend Developer,83,Placed
+34,Shubham,22,7.0,6,6,5,6,6,2,No,1,Python Developer,65,Not Placed
+35,Divya,20,9.3,10,9,9,10,9,6,Yes,5,AI Engineer,95,Placed
+36,Gaurav,21,7.8,7,8,7,7,8,3,Yes,2,Data Analyst,77,Placed
+37,Preeti,22,8.9,9,9,8,9,9,5,Yes,3,ML Engineer,90,Placed
+38,Varun,21,6.7,5,6,5,6,6,2,No,0,Backend Developer,58,Not Placed
+39,Khushi,20,8.4,8,8,7,8,8,4,Yes,2,Python Developer,82,Placed
+40,Aditya,22,7.6,7,7,6,7,7,3,Yes,1,Full Stack Developer,73,Placed
+41,Aditi,21,9.4,10,10,9,10,10,6,Yes,5,AI Engineer,97,Placed
+42,Hemant,23,6.6,5,5,4,6,5,2,No,0,Python Developer,56,Not Placed
+43,Shreya,20,8.8,9,8,8,9,9,5,Yes,3,Data Analyst,88,Placed
+44,Lokesh,22,7.3,6,7,6,6,7,2,No,1,Backend Developer,69,Not Placed
+45,Bhavna,21,9.1,9,9,9,9,9,5,Yes,4,ML Engineer,94,Placed
+46,Ayush,21,8.3,8,8,7,8,8,4,Yes,2,Python Developer,81,Placed
+47,Ritu,20,9.0,9,9,8,9,9,5,Yes,3,AI Engineer,91,Placed
+48,Kunal,22,6.8,5,6,5,6,6,2,No,0,Backend Developer,59,Not Placed
+49,Mansi,21,8.6,8,9,8,9,8,4,Yes,3,Data Analyst,86,Placed
+50,Pratik,22,7.5,7,7,6,7,7,3,Yes,1,Full Stack Developer,74,Placed
+51,Nandini,20,9.5,10,10,9,10,10,6,Yes,5,ML Engineer,98,Placed
+52,Rohan,23,6.4,5,5,4,5,5,1,No,0,Python Developer,54,Not Placed
+53,Ishita,21,8.9,9,9,8,9,9,5,Yes,4,AI Engineer,90,Placed
+54,Akshay,22,7.0,6,6,5,6,6,2,No,1,Backend Developer,63,Not Placed
+55,Palak,20,8.7,8,9,8,9,8,5,Yes,3,Data Analyst,87,Placed
